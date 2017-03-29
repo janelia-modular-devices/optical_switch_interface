@@ -1,4 +1,4 @@
-#optical_switch_interface
+# optical_switch_interface
 
 Authors:
 
@@ -8,16 +8,6 @@ License:
 
     BSD
 
-##More Detailed Help on Installation and Usage
+## More Detailed Help on Installation and Usage
 
 [modular-devices](https://github.com/janelia-modular-devices/modular-devices)
-
-##Device Information
-
-```json
-```
-
-##Verbose Device Information
-
-```json
-```
